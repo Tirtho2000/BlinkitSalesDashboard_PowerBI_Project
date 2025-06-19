@@ -45,18 +45,7 @@ This Power BI project visualizes and analyzes sales data from **Blinkit**, one o
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Screenshot
 
-```bash
-Blinkit-Sales-Dashboard/
-│
-├── Blinkit_Sales_Dashboard.pbix         # Power BI dashboard file
-├── Data/
-│   ├── Sales_Data.xlsx                   # Raw data used in the dashboard
-│
-├── Screenshots/
-│   ├── Dashboard_View.png                # Visual snapshot of the dashboard
-│
-└── README.md
 
 [WhatsApp Image 2025-03-09 at 14 21 14_89813f44](https://github.com/user-attachments/assets/5f3431d6-5739-4ac3-b75f-27f726cb1964)
