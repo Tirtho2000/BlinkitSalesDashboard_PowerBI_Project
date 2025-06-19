@@ -41,7 +41,7 @@ This Power BI project visualizes and analyzes sales data from **Blinkit**, one o
 - **Power BI Desktop**
 - **Microsoft Excel** (for initial data preparation)
 - **DAX** (Data Analysis Expressions)
-- **Power Query (M Language)**
+- **Power Query**
 
 ---
 
