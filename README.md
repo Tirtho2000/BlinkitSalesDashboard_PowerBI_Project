@@ -48,10 +48,11 @@ This Power BI project visualizes and analyzes sales data from **Blinkit**, one o
 ## 📁 Project Screenshot
 
 ![WhatsApp Image 2025-03-09 at 14 21 14_89813f44](https://github.com/user-attachments/assets/f8655639-d310-4477-9ba0-2036d621db07)
-
+---
 ## 👨‍💻 Author
-**Tirthankar Bagal**
-**🎓 M.Sc in Physics | Data Analyst | Political Intelligence Specialist**
-**📧 tirthankarbagal@gmail.com**
-**🔗 LinkedIn - linkedin.com/in/tirthankar-bagal/**
+
+- **Tirthankar Bagal**
+- **🎓 M.Sc in Physics | Data Analyst | Political Intelligence Specialist**
+- **📧 tirthankarbagal@gmail.com**
+- **🔗 LinkedIn - linkedin.com/in/tirthankar-bagal/**
 
