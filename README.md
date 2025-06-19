@@ -47,5 +47,5 @@ This Power BI project visualizes and analyzes sales data from **Blinkit**, one o
 
 ## 📁 Project Screenshot
 
+![WhatsApp Image 2025-03-09 at 14 21 14_89813f44](https://github.com/user-attachments/assets/f8655639-d310-4477-9ba0-2036d621db07)
 
-[WhatsApp Image 2025-03-09 at 14 21 14_89813f44](https://github.com/user-attachments/assets/5f3431d6-5739-4ac3-b75f-27f726cb1964)
