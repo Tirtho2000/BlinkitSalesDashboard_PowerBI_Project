@@ -48,6 +48,7 @@ This Power BI project visualizes and analyzes sales data from **Blinkit**, one o
 ## 📁 Project Screenshot
 
 ![WhatsApp Image 2025-03-09 at 14 21 14_89813f44](https://github.com/user-attachments/assets/f8655639-d310-4477-9ba0-2036d621db07)
+
 ---
 ##🧠 Insights Gained
 - **Total Revenue generated was $1.20M, with an average sales value of $140.99 per transaction.**
